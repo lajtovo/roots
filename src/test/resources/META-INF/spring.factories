@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = pl.lajtovo.config.\
+    TestContainersSpringContextCustomizerFactory,pl.lajtovo.config.\
+    SqlTestContainersSpringContextCustomizerFactory
